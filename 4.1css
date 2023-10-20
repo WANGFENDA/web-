@@ -1,0 +1,31 @@
+#tupian{
+	float:left;
+}
+.jianbian{
+	background-image: linear-gradient(to right,#FF0000,#FFFF00);
+	height:5px;
+	border:none;
+}
+#body{
+	width:1080px;
+	margin:auto;
+}
+.zise{
+	color:blueviolet;
+	font-family: "微软雅黑";
+	font-size:25px;
+}
+ul{
+	list-style-position:inside;
+}
+.beijing{
+	background:blueviolet;
+	color: #FFFFFF;
+}
+ul{
+	list-style-image:url("../img/list样式-1.png");
+	line-height: 47.5px;
+}
+img{
+	width:500px;
+}
